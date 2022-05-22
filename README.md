@@ -1,4 +1,4 @@
-# CuteStar
+# BeautifulShapes
 My Sketchbooks used Processing
 
 Hi,
