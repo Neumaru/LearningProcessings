@@ -9,7 +9,6 @@ I quit because COVID, but I want to be Geek, still more, so now I come here.
 What shapes do you like?
 What colour do you like too?
 
-In Japan, kids learning programming, and I want to make "like Dream"ly picture.
 If you interested, talk to me.
 
 -> MilBookMonster@social.linux.pizza
